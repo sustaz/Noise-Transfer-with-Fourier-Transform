@@ -10,3 +10,5 @@ Regarding the second, it is set for our specific enviroment and you can launch i
 --output_counter, an int defining the number of desired outputs
 --treshold, a float defining the treshold for noise filtering (this has to be set depending on the input)
 --alpha, that float that define the weight of the noise with respect to the good signal
+
+The Framework is optimized for Google Cloud Platform enviroment, but it can still be transfered on another Python enviroment.
